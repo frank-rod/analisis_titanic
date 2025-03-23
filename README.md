@@ -44,7 +44,7 @@ git clone https://github.com/frank-rod/analisis_titanic.git
 
 2. Instale las dependencias necesarias:
 ```
-pip install pandas numpy matplotlib seaborn jupyter
+pip install -r requirements.txt
 ```
 
 3. Abra el notebook en Jupyter:
@@ -60,7 +60,7 @@ El análisis de los datos nos permite entender no solo los patrones estadístico
 
 ## Contacto
 
-Javier Rodríguez - [mail](mailto:fjrodriguez00@outlook.com) - [web](https://www.fjrod.com/) - [GitHub](https://github.com/frank-rod)
+Frank Rodríguez - [mail](fjrodriguez00@outlook.com) - [web](https://www.fjrod.com/) - [GitHub](https://github.com/frank-rod)
 
 ---
 
