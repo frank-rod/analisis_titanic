@@ -39,12 +39,12 @@ A través de análisis exploratorio de datos (EDA) y técnicas de visualización
 
 1. Clone este repositorio:
 ```
-git clone https://github.com/frank-rod/analisis_titanic.git
+git clone https://github.com/su-usuario/analisis-titanic.git
 ```
 
 2. Instale las dependencias necesarias:
 ```
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn jupyter
 ```
 
 3. Abra el notebook en Jupyter:
@@ -60,7 +60,7 @@ El análisis de los datos nos permite entender no solo los patrones estadístico
 
 ## Contacto
 
-Frank Rodríguez - [mail](fjrodriguez00@outlook.com) - [web](https://www.fjrod.com/) - [GitHub](https://github.com/frank-rod)
+Javier Rodríguez - [mail](fjrodriguez00@outlook.com) - [web](https://www.fjrod.com/) - [GitHub](https://github.com/tu-usuario)
 
 ---
 
